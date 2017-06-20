@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://omarjg.github.io/IDOLTest/sitemap.xml
